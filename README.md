@@ -1,0 +1,1 @@
+Simplified implementation of the Ray Tracing method.
